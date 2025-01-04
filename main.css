@@ -32,6 +32,7 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
+  background-color: var(--baseGray);
 }
 
 @media screen and (min-width: 770px) {
